@@ -1,6 +1,6 @@
 # time_cplx_notes
 
-### Lecture on Time and Space Complexity
+### Notes on Time and Space Complexity
 
 #### **Introduction**
 Time and space complexity are critical concepts in computer science, particularly in the analysis of algorithms. They help determine the efficiency of an algorithm in terms of time (how long it takes to run) and space (how much memory it requires).
