@@ -143,5 +143,3 @@ Understanding time complexity at a deep level allows us to:
 - Analyze and improve algorithm efficiency.
 - Apply appropriate techniques for different classes of problems.
 - Contribute to theoretical advancements in computer science.
-
-These notes cover fundamental concepts, detailed examples, advanced topics, and practical applications to provide a comprehensive understanding of time complexity in algorithm analysis.
